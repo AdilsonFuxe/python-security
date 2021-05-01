@@ -9,7 +9,7 @@ print("client Socket criado com sucesso")
 
 
 host = "localhost"
-port = 5433
+port = 5432
 message = "Hello Server!!!"
 
 

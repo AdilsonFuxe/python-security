@@ -35,8 +35,6 @@
 
 # PING
 
-## O que é o Ping
-
 > O ping é uma ferramenta que usa o protocolo ICMP para testar a conectividade entre nós. É um comando disponivel praticamnete em todos os sistemas operacionais que consiste no envio de pacotes para o equipamento de destino e na "escuta" das respostas.
 
 ## O que é ICMP?
@@ -50,3 +48,18 @@
 ## Biblioteca os
 
 > Este módulp fornece várias funções relacionadas ao tempo, como por exemplo tempo de execução
+
+<br/>
+
+# Biblioteca Socket
+
+> Está Biblioteca fornece acesso de baixo nivel a interface de rede
+> O S.O fornce a API socket que relaciona o programa com a rede
+
+## TCP
+
+> O TCP (Transmission Control Protocol) ou Protocolo de Transporte de Transmissão é um dos protocolos de comunicação, que dão suporte a rede global Internet, verificando se os dados são enviados sa sequência correcta e sem erros. (integridade)
+
+## UDP
+
+> O UDP (User Datagram Protocol) ou Protocolo de Datagrama de Usuario é um protocolo simples da camada de transporte que permite que aplicações enviem um datagrama dentro de um pacote IPV4 ou IPV6 a un destino, porém sem qualquer tipo de garantia que o pacote chegue correctamente. (Disponiblidade)
